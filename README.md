@@ -35,12 +35,12 @@ Le projet est structuré en plusieurs parties :
 
 ## 🛠️ Stack technique
 
-- Blockchain / Smart Contract
-- Backend (API)
-- Mobile (Android / autre selon ton cas)
+- Smart Contract : Solidity
+- Backend : Ktor
+- ORM : Exposed
+- Ide :  Android Studio + inteliijIdea
 - Déploiement : Railway
-
-*(tu peux préciser : Node.js, Solidity, React Native, etc.)*
+- Base de données : Neon (postegresql)
 
 ---
 
