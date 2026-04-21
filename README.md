@@ -41,6 +41,7 @@ Le projet est structuré en plusieurs parties :
 - Ide :  Android Studio + inteliijIdea
 - Déploiement : Railway
 - Base de données : Neon (postegresql)
+- SDK & API : Reown, Alchemy
 
 ---
 
