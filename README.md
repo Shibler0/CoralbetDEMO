@@ -5,9 +5,10 @@ Application décentralisée permettant aux utilisateurs de parier sur des évén
 ## 🚀 Aperçu
 
 CoralBet est une application full-stack combinant :
+- un smart contract pour la création du token
 - un smart contract pour la gestion des paris
-- un backend pour la logique métier et l’API
-- un client mobile pour l’expérience utilisateur
+- un backend pour l'écoute des events, appels API et login
+- un client mobile
 
 L’objectif est de proposer une plateforme transparente et sécurisée basée sur la blockchain.
 
