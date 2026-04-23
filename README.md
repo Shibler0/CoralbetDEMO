@@ -34,7 +34,7 @@ Le projet est structuré en plusieurs parties :
 
 ---
 
-## 🛠️ Stack technique
+## 🛠️ Stack
 
 - Smart Contract : Solidity
 - Backend : Ktor
