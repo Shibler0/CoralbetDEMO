@@ -1,45 +1,34 @@
-# ⚽ CoralBet – dApp de Prédiction Sportive
+# ⚽ CoralBet – Sports Prediction dApp
 
-Application décentralisée permettant aux utilisateurs de parier sur des événements sportifs via un smart contract.
+A decentralized application allowing users to bet on sports events through smart contracts.
 
-## 🚀 Aperçu
+## 🚀 Overview
 
-CoralBet est une application full-stack combinant :
-- un smart contract pour la création du token
-- un smart contract pour la gestion des paris
-- un backend pour l'écoute des events, appels API et login
-- un client mobile
+CoralBet is a full-stack application featuring:
+- Smart Contracts: For token creation and betting logic.
+- Backend: For event listening, API integration, and authentication.
+- Mobile Client: For a seamless user experience.
 
-L’objectif est de proposer une plateforme transparente et sécurisée basée sur la blockchain.
-
----
-
-## 🧠 Fonctionnalités
-
-- 📊 Création et gestion de paris sportifs
-- 🔗 Interaction avec un smart contract
-- 📱 Application mobile intuitive
-- ⚙️ Backend API pour la gestion des données
-- ☁️ Déploiement (Railway)
+The goal is to provide a transparent and secure betting platform powered by blockchain technology for 2026 FIFA World Cup.
 
 ---
 
-## 🏗️ Architecture
+## 🧠 Features
 
-Le projet est structuré en plusieurs parties :
-
-- **Smart Contract** : gestion des paris et des transactions
-- **Backend** : API + logique serveur
-- **Client mobile** : interface utilisateur
+- 📊 Sports Betting: Create and manage bets on various events.
+- 🔗 Blockchain Interaction: Direct integration with smart contracts.
+- 📱 Mobile App: Intuitive UI for easy navigation.
+- ⚙️ Backend API: Robust server-side data management.
+- ☁️ Deployment: Hosted on Railway.
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 - Smart Contract : Solidity
-- Backend : Ktor
+- Backend : Ktor (Kotlin)
 - ORM : Exposed
-- Ide :  Android Studio + inteliijIdea
+- IdEs :  Android Studio & inteliij Idea
 - Déploiement : Railway
 - Base de données : Neon (postegresql)
 - SDK & API : Reown, Alchemy
@@ -58,22 +47,12 @@ Le projet est structuré en plusieurs parties :
 
 ---
 
-## 🎯 Objectif du projet
-
-Ce projet m’a permis de :
-- concevoir une application complète de A à Z
-- travailler sur une architecture full-stack
-- intégrer des interactions avec la blockchain
-- gérer le déploiement d’une application réelle
-
----
-
 ## 🔒 Code source
 
-Le code complet (client + serveur) est actuellement privé, mais peut être présenté sur demande.
+The full source code (client + server) is currently private but can be presented upon request.
 
 ---
 
 ## 📬 Contact
 
-N’hésite pas à me contacter pour en savoir plus ou pour une démonstration.
+Feel free to reach out for more information or a live demonstration.
