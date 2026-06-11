@@ -42,7 +42,7 @@ The goal is to provide a transparent and secure betting platform powered by bloc
   <img src="Screenshot_20260414_153452_CoralBet.jpg" width="220"/>
   <img src="Screenshot_20260414_154317_CoralBet.jpg" width="220"/>
   <img src="Screenshot_20260414_153502_CoralBet.jpg" width="220"/>
-  <img src="Screenshot_20260420_083334_CoralBet.jpg" width="220"/>
+  <img src="Screenshot_20260604_111707_CoralBet.jpg" width="220"/>
 </p>
 
 ---
